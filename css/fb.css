@@ -1,0 +1,161 @@
+body{
+	margin: 0px;
+	font-family: tahoma;                 
+}
+nav{
+	background-color: blue;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	padding-left: 10px;
+	padding: 20px;
+}
+.one{
+	font-size: 150%; 
+}
+.two
+{
+	display: flex;
+}
+#email{
+	font-size: 80%;
+	margin-right: 10px;
+}
+#password{
+	font-size: 80%;	
+}
+#Login{
+	color: white;
+	background-color: blue;
+}
+.three{
+	background-color: rgb(201, 198, 198);
+	color: blue;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10px;
+	
+}
+#facebook{
+	padding-left: 130px;
+}
+
+#acct{
+	padding-top: 10px;
+	color: black;
+	font-size: 150%;
+	padding-right: 200px;
+	padding-left: 25px;
+}
+#free{
+	background-color:rgb(201, 198, 198);
+	color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-around;
+	padding-left: 260px;
+;
+}
+.four{
+	background-color: rgb(201, 198, 198);
+	display: flex;
+	justify-content: space-around;
+	padding: 39px;
+	padding-right: 160px;
+}
+
+#img{
+	justify-content: space-around;
+	display: flex;
+	width: 100px;
+	height: 150px;
+	padding-left: 200px;
+}
+#box{
+	padding-left: 35px;	
+}
+
+#Firstname{
+	border: 2px solid rgb(143, 139, 139);
+	border-radius: 5px;
+	padding: 5px;
+	width: 150px;
+}
+#Lastname{
+	border: 2px solid rgb(143, 139, 139);
+	border-radius: 5px;
+	padding: 5px;
+	width: 150px;
+}
+#Email{
+	margin-top: 5px;
+	border: 2px solid rgb(143, 139, 139);
+	border-radius: 5px;
+	padding: 5px;
+	width: 320px;
+}
+#re-enter{
+	margin-top: 5px;
+	border: 2px solid rgb(143, 139, 139);
+	border-radius: 5px;
+	padding: 5px;
+	width: 320px;	
+}
+#Password{
+	margin-top: 5px;
+	border: 2px solid rgb(143, 139, 139);
+	border-radius: 5px;
+	padding: 5px;
+	width: 320px;
+}
+#date{
+	border: 2px solid rgb(143, 139, 139);
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 5px;
+	font-family: tahoma;
+}
+#male{
+	margin-top: 20px;
+	}
+
+	.five{
+	background-color:rgb(201, 198, 198);
+	margin: 0px;
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	padding-right: 150px;
+	padding-left: 200px;
+	padding: 39px;
+	
+}
+#bacct{
+	background-color: green;
+	padding: 7px;
+	width: 200px;
+	margin-top: 10px;
+	color: white;
+	border-radius: 7px;
+	margin-bottom: 20px;
+}
+#click{
+	font-size: 65%;
+	color: rgb(124, 121, 121);
+	padding-left: 400px;
+	padding-bottom: 0px;
+}
+.six{
+		background-color:rgb(201, 198, 198);
+		display: flex;
+		justify-content: space-around;
+		padding-left: 270px;
+
+			
+}
+c	
+a:link, a:visited{
+	color: white;
+	text-decoration: none;
+}
